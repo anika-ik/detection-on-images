@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+
+#tv_button, #plant_button, #room_button, #fan_button, #fruit_button{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 45px;
+    font-weight: bold;
+}
